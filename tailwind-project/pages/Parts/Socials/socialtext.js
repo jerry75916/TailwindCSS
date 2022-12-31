@@ -10,6 +10,7 @@ import {
   faAmazon,
   faApple,
 } from "@fortawesome/free-brands-svg-icons";
+
 import Link from "next/link";
 faLinkedinIn;
 const Socialtext = () => {

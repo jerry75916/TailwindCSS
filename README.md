@@ -1,6 +1,6 @@
 # TailwindCSS
 
-This little project use Next.js & TailwindCSS
+This little project use Next.js & TailwindCSS to practice a RWD website
 
 https://tailwind-css-jet.vercel.app/
 
